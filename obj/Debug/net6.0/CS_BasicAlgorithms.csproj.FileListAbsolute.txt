@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\CS_BasicAlgorithms\bin\Debug\net6.0\CS_BasicAlgorithms.exe
+C:\Users\pc\Desktop\CS_BasicAlgorithms\bin\Debug\net6.0\CS_BasicAlgorithms.deps.json
+C:\Users\pc\Desktop\CS_BasicAlgorithms\bin\Debug\net6.0\CS_BasicAlgorithms.runtimeconfig.json
+C:\Users\pc\Desktop\CS_BasicAlgorithms\bin\Debug\net6.0\CS_BasicAlgorithms.dll
+C:\Users\pc\Desktop\CS_BasicAlgorithms\bin\Debug\net6.0\CS_BasicAlgorithms.pdb
+C:\Users\pc\Desktop\CS_BasicAlgorithms\obj\Debug\net6.0\CS_BasicAlgorithms.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\CS_BasicAlgorithms\obj\Debug\net6.0\CS_BasicAlgorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\CS_BasicAlgorithms\obj\Debug\net6.0\CS_BasicAlgorithms.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\CS_BasicAlgorithms\obj\Debug\net6.0\CS_BasicAlgorithms.AssemblyInfo.cs
+C:\Users\pc\Desktop\CS_BasicAlgorithms\obj\Debug\net6.0\CS_BasicAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\CS_BasicAlgorithms\obj\Debug\net6.0\CS_BasicAlgorithms.dll
+C:\Users\pc\Desktop\CS_BasicAlgorithms\obj\Debug\net6.0\refint\CS_BasicAlgorithms.dll
+C:\Users\pc\Desktop\CS_BasicAlgorithms\obj\Debug\net6.0\CS_BasicAlgorithms.pdb
+C:\Users\pc\Desktop\CS_BasicAlgorithms\obj\Debug\net6.0\CS_BasicAlgorithms.genruntimeconfig.cache
+C:\Users\pc\Desktop\CS_BasicAlgorithms\obj\Debug\net6.0\ref\CS_BasicAlgorithms.dll
